@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Oct8_class.iml" filepath="$PROJECT_DIR$/.idea/Oct8_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_class_examples/.idea/python_class_examples.iml" filepath="$PROJECT_DIR$/../python_class_examples/.idea/python_class_examples.iml" />
+    </modules>
+  </component>
+</project>
